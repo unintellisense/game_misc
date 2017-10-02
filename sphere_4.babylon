@@ -1,7 +1,5 @@
 {"producer":{"name":"Blender","version":"2.78 (sub 0)","exporter_version":"4.6.1","file":"sphere_4.babylon"},
 "autoClear":true,"clearColor":[0.0509,0.0509,0.0509],"ambientColor":[0,0,0],"gravity":[0,-9.81,0],
-"materials":[{"name":"sphere_4.Icosphere","id":"sphere_4.Icosphere","ambient":[0,0,0],"diffuse":[0.8,0.8,0.8],"specular":[1,1,1],"emissive":[0,0,0],"specularPower":64,"alpha":1,"backFaceCulling":true,"checkReadyOnlyOnce":false, 
-"diffuseTexture":{"name":"sphere_4_Icosphere_TEXTURE.jpg","level":1,"hasAlpha":0,"coordinatesMode":0,"uOffset":0,"vOffset":0,"uScale":1,"vScale":1,"uAng":0,"vAng":0,"wAng":0,"wrapU":0,"wrapV":0,"coordinatesIndex":0}}],
 "multiMaterials":[],
 "skeletons":[],
 "meshes":[{"name":"Icosphere","id":"Icosphere","materialId":"sphere_4.Icosphere","billboardMode":0,"position":[0,0,0],"rotation":[0,0,0],"scaling":[1,1,1],"isVisible":true,"freezeWorldMatrix":false,"isEnabled":true,"checkCollisions":false,"receiveShadows":false
